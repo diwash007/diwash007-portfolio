@@ -509,15 +509,13 @@ section .container {
 /* certs */
 
 .cert-img {
-  width: 200px;
+  width: 250px;
   border: 6px solid rgba(255, 255, 255, 0.12);
 }
 
 @media screen and (min-width: 480px) {
   .cert-img {
     float: right;
-    width: 200px;
-    border: 6px solid rgba(255, 255, 255, 0.12);
   }
 }
 
